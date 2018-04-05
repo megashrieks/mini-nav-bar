@@ -1,3 +1,3 @@
 $(".open-nav").click(function () {
-    $(this).toggleClass("active");
+    $(".nav-bar").toggleClass("active");
 });
